@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|c:\\workspace code academy\\class-inheritance\\const-readonly-access-modifiers\\const-readonly-access-modifiers\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|solutionrelative:const-readonly-access-modifiers\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|c:\\workspace code academy\\class-inheritance\\const-readonly-access-modifiers\\const-readonly-access-modifiers\\helpers\\constants\\responsemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|solutionrelative:const-readonly-access-modifiers\\helpers\\constants\\responsemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|c:\\workspace code academy\\class-inheritance\\const-readonly-access-modifiers\\const-readonly-access-modifiers\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|solutionrelative:const-readonly-access-modifiers\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|c:\\workspace code academy\\class-inheritance\\const-readonly-access-modifiers\\const-readonly-access-modifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|solutionrelative:const-readonly-access-modifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|c:\\workspace code academy\\class-inheritance\\const-readonly-access-modifiers\\const-readonly-access-modifiers\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|solutionrelative:const-readonly-access-modifiers\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|c:\\workspace code academy\\class-inheritance\\const-readonly-access-modifiers\\const-readonly-access-modifiers\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|solutionrelative:const-readonly-access-modifiers\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|c:\\workspace code academy\\class-inheritance\\const-readonly-access-modifiers\\const-readonly-access-modifiers\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|solutionrelative:const-readonly-access-modifiers\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|c:\\workspace code academy\\class-inheritance\\const-readonly-access-modifiers\\const-readonly-access-modifiers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|solutionrelative:const-readonly-access-modifiers\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|c:\\workspace code academy\\class-inheritance\\const-readonly-access-modifiers\\const-readonly-access-modifiers\\custommath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|solutionrelative:const-readonly-access-modifiers\\custommath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|c:\\workspace code academy\\class-inheritance\\const-readonly-access-modifiers\\const-readonly-access-modifiers\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B146B21-15B9-4D38-B943-6D5A13AD84D9}|Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj|solutionrelative:const-readonly-access-modifiers\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Const-Readonly-Access-modifiers\\Models\\Test.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Models\\Test.cs",
+              "RelativeToolTip": "Const-Readonly-Access-modifiers\\Models\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:39:33.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Const-Readonly-Access-modifiers\\Models\\Car.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Models\\Car.cs",
+              "RelativeToolTip": "Const-Readonly-Access-modifiers\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:30:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseMessages.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Helpers\\Constants\\ResponseMessages.cs",
+              "RelativeDocumentMoniker": "Const-Readonly-Access-modifiers\\Helpers\\Constants\\ResponseMessages.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Helpers\\Constants\\ResponseMessages.cs",
+              "RelativeToolTip": "Const-Readonly-Access-modifiers\\Helpers\\Constants\\ResponseMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:54:39.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Const-Readonly-Access-modifiers\\Models\\Book.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Models\\Book.cs",
+              "RelativeToolTip": "Const-Readonly-Access-modifiers\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:47:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Const-Readonly-Access-modifiers\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Const-Readonly-Access-modifiers\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T11:14:15.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomMath.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\CustomMath.cs",
+              "RelativeDocumentMoniker": "Const-Readonly-Access-modifiers\\CustomMath.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\CustomMath.cs",
+              "RelativeToolTip": "Const-Readonly-Access-modifiers\\CustomMath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:54:13.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Const-Readonly-Access-modifiers\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Const-Readonly-Access-modifiers\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwDIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:49:23.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Const-Readonly-Access-modifiers\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Const-Readonly-Access-modifiers\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:45:33.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Const-Readonly-Access-modifiers\\Models\\Employee.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Models\\Employee.cs",
+              "RelativeToolTip": "Const-Readonly-Access-modifiers\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:37:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Program.cs",
+              "RelativeDocumentMoniker": "Const-Readonly-Access-modifiers\\Program.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Program.cs",
+              "RelativeToolTip": "Const-Readonly-Access-modifiers\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:05:50.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

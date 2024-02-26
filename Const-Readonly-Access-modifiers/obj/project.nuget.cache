@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RponAp99Gvo9pXz2YrQnkmfOlrMG08Lpk4jnOqxFvs5RN1r33uaUHIJxGgEGLn71YO+k8G3yJgn/kurvmGCSyg==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace Code Academy\\Class-Inheritance\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers\\Const-Readonly-Access-modifiers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

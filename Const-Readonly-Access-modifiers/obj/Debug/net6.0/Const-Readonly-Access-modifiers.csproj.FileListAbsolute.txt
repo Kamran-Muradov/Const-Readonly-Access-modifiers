@@ -1,0 +1,14 @@
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\bin\Debug\net6.0\Const-Readonly-Access-modifiers.exe
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\bin\Debug\net6.0\Const-Readonly-Access-modifiers.deps.json
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\bin\Debug\net6.0\Const-Readonly-Access-modifiers.runtimeconfig.json
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\bin\Debug\net6.0\Const-Readonly-Access-modifiers.dll
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\bin\Debug\net6.0\Const-Readonly-Access-modifiers.pdb
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\obj\Debug\net6.0\Const-Readonly-Access-modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\obj\Debug\net6.0\Const-Readonly-Access-modifiers.AssemblyInfoInputs.cache
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\obj\Debug\net6.0\Const-Readonly-Access-modifiers.AssemblyInfo.cs
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\obj\Debug\net6.0\Const-Readonly-Access-modifiers.csproj.CoreCompileInputs.cache
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\obj\Debug\net6.0\Const-Readonly-Access-modifiers.dll
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\obj\Debug\net6.0\refint\Const-Readonly-Access-modifiers.dll
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\obj\Debug\net6.0\Const-Readonly-Access-modifiers.pdb
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\obj\Debug\net6.0\Const-Readonly-Access-modifiers.genruntimeconfig.cache
+C:\Workspace Code Academy\Class-Inheritance\Const-Readonly-Access-modifiers\Const-Readonly-Access-modifiers\obj\Debug\net6.0\ref\Const-Readonly-Access-modifiers.dll
